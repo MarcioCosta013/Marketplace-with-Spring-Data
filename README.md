@@ -1,7 +1,7 @@
 # 🎫 Projeto Marketplace
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,gradle&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,gradle,docker&theme=dark" />
 </a>
 
 ##### Um sistema de marketplace para venda de ingressos de eventos, desenvolvido com **Spring Boot 4.0.5** usando uma arquitetura modular baseada em domínios. O projeto é estruturado em módulos independentes (Registration, Catalog e Ticketing), cada um com sua própria base de dados e responsabilidades específicas.
